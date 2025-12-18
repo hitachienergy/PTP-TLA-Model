@@ -6,7 +6,7 @@ Thank you for your interest in checkpoint-restore-operator owned or managed by H
 
 If You are an employee and have created the Contribution as part of your employment, you need to have your employer approve this Agreement and sign this document. If you do not own the copyright in the entire work of authorship, any other author of the Contribution should also sign this Agreement.
 
-Please complete and sign this Agreement, and then email a pdf copy to pl-opensource@hitachienergy.com. Read this document carefully before signing and keep a copy for your records.
+Please complete and sign this Agreement, and then email a pdf copy to opensource@hitachienergy.com. Read this document carefully before signing and keep a copy for your records.
 
 ### If you are a person, please fill out here:
 
